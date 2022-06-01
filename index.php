@@ -79,7 +79,7 @@ echo "<h1><center>Version X</center></h1>"
         <div class="row">
           <div class="col-md-12">
             <div class="caption">
-              <h2>Ecommerce HTML Template</h2>
+              <h2>A test site for AWS</h2>
               <div class="line-dec"></div>
               <p>You can check the header for the <strong>website IP</strong> and <strong>zone</strong>. Try to be nice and don't break anything.  
               <br><br>Please tell your friends about <a rel="nofollow" href="https://www.facebook.com/tooplate/">Tooplate</a> free template site. Thank you. Photo credit goes to <a rel="nofollow" href="https://www.pexels.com">Pexels website</a>.</p>
